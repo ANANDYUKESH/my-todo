@@ -1,0 +1,65 @@
+/*  */
+ .sec{
+    background-color: rgb(201, 210, 217);
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+
+ }
+ body{
+    background-color: rgb(90, 253, 90);
+ }
+ .btn{
+   margin-left: 20px;
+   margin-top: 40px;
+ }
+ .btn1{
+    border-radius: 10px;
+    background-color: blue;
+    color: aliceblue;
+ }
+ .btn2{
+    border-radius: 10px;
+    background-color: brown;
+    color: aliceblue;
+ }
+ .btn3{
+    border-radius: 10px;
+    background-color: rgb(58, 234, 58);
+    color:whitesmoke;
+ }
+ ol{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+ }
+ ol li{
+    margin-top: 10px;
+    list-style-type: none;
+ }
+ .add{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 50px;
+    background-color: blue;
+    color: aliceblue;
+ }
+ .text{
+    margin-left: 15px;
+ }
+ p{
+    margin-left: 15px;
+ }
+ h1{
+    margin-left: 4px;
+   padding: 10px;
+ }
+ .container{
+    margin-left: 450px;
+    margin-top: 200px;
+ }
+ .line{
+    width: 80%;
+    background-color: rgb(216, 214, 214);
+ }
